@@ -1,0 +1,42 @@
+{
+	"index.html": {
+		"resources": [
+			"css/own.css",
+			"js/mui.min.js",
+			"css/iconfont.css",
+			"css/mui.min.css",
+			"barItem/home.html",
+			"fonts/iconfont.ttf"
+		],
+		"refer": [
+			"barItem/category.html",
+			"barItem/wishList.html",
+			"barItem/home.html",
+			"barItem/mine.html",
+			"template.html",
+			"barItem/cart.html"
+		]
+	},
+	"barItem/home.html": {
+		"resources": [
+			"img/slider/slider2.jpg",
+			"img/1.jpg",
+			"img/slider/slider0.jpg",
+			"img/slider/slider1.jpg"
+		]
+	},
+	"barItem/mine.html": {
+		"resources": [
+			"img/bg.jpeg",
+			"fonts/mui.ttf",
+			"img/mi_bg.png"
+		]
+	},
+	"template.html": {
+		"refer": [
+			"template-main-third.html",
+			"template-main-second.html",
+			"template-main-first.html"
+		]
+	}
+}
